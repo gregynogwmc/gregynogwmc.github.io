@@ -11,22 +11,8 @@ layout: page
 
 #### Registration is now closed.
 
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
 
-
-
-<p>
-<table width="100%" border="1">
-  <tr>
-    <td align="center"> <a href = "gregynog2018">Overview</a> </td><td align="center">  <a href = "gregynog-registration">Registration</a> </td><td align="center">  <a href = "gregynog-practical">Practical Information</a> </td><td align="center"> <a href = "gregynog-how-to-find-us">How to find us</a> </td><td align="center"> Programme </td><td align="center"> Abstracts </td></tr></table>
-</p>
-
-
-This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK. <img style="float: right;" src="/files/2017/12/gregynog.jpg" width="350pt" alt="Gregynog" />
+This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK. <img style="float: right;" src="gregynog.jpg" width="350pt" alt="Gregynog" />
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 

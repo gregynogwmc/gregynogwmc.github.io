@@ -26,7 +26,7 @@ layout: page
 
 
 ## Practical information
-Information for your visit to the Gregynog Welsh Mathematics Colloquium 2017.
+Information for your visit to the Gregynog Welsh Mathematics Colloquium 2018.
 
 ## Times
 

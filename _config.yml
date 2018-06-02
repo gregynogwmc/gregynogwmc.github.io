@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nick Gill
-email: nick.gill@southwales.ac.uk
+title: Welsh Mathematical Colloquirum
+#email: nick.gill@southwales.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nickpgill.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  nickpgill
+github_username:  gregynogwmc
 
 # Build settings
 markdown: kramdown
@@ -35,8 +35,8 @@ exclude:
 excerpt_separator: <!--more-->
 permalink: /:title
 header_pages:
-  - blog.md
-  - research.md
-  - teaching.md
-  - gregynog2018.md
+  - past-meetings.md
+  - practical.md
+  - registration.md
+  - how-to-find-us.md
 
