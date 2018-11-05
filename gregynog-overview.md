@@ -16,9 +16,9 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
 The following invited plenary speakers have agreed to give keynote lectures:
-- [Professor Ruth King](http://www.maths.ed.ac.uk/~rking33/), Edinburgh University, UK: Bayesian inference and hidden Markov models
-- [Dr Jane White](http://people.bath.ac.uk/maskajw/), University of Bath, UK: Mathematical Biology
-- [Dr Ian Short](http://users.mct.open.ac.uk/is3649/), Open University, UK: Hyperbolic Geometry
+- [Professor Reidun Twarock](https://www.york.ac.uk/maths/staff/reidun-twarock/), University of York, UK: Mathematical Biology and Mathematical Physics
+- [Professor Jose Carrillo (tbc)](http://wwwf.imperial.ac.uk/~jcarrill/index.html), Imperial College London, UK: Mathematical Biology and Partial Differential Equations
+- [Professor Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne), University of Oxford, UK: Mathematical and Computational Models in Biomedical Systems
 
-The organisers of the Colloquium are [Nick Gill](http://boolesrings.org/nickgill) and [Francis Hunt](http://staff.southwales.ac.uk/users/3853-fhhunt) (University of South Wales School of Mathematics). Some financial support is available for UK-based research students. The Colloquium is supported by an London Mathematical Society (LMS) conference grant.
+The main organiser of the Colloquium is [Kristian Evans](http://boolesrings.org/nickgill) (Swansea University, Department of Mathematics). Some financial support is available for UK-based research students. The Colloquium is supported by an London Mathematical Society (LMS) conference grant.
 
