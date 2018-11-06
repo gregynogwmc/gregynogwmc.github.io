@@ -7,7 +7,7 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-Information for your visit to the Gregynog Welsh Mathematics Colloquium 2018.
+Information for your visit to the Gregynog Welsh Mathematics Colloquium 2019.
 
 ## Times
 
