@@ -1,7 +1,7 @@
 ---
 id: 5
 title: Gregynog 2019
-date: 2017-12-20
+date: 2018-11-05
 author: nickgill
 layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
