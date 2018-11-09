@@ -9,7 +9,7 @@ layout: page
 
 #### This meeting will be held at Gregynog Hall, Newtown on 20-22 May 2019. 
 
-#### Registration will open soon.
+#### Registration will close on 29th March, 2019.
 
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK. <img style="float: right;" src="gregynog.jpg" width="350pt" alt="Gregynog" />
