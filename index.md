@@ -18,7 +18,6 @@ It plays an important role in fostering mathematical discussion and collaboratio
 
 The following invited plenary speakers have agreed to give keynote lectures:
 - [Professor Reidun Twarock](https://www.york.ac.uk/maths/staff/reidun-twarock/), University of York, UK: Mathematical Biology and Mathematical Physics
-- [Professor Jose Carrillo (tbc)](http://wwwf.imperial.ac.uk/~jcarrill/index.html), Imperial College London, UK: Mathematical Biology and Partial Differential Equations
 - [Professor Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne), University of Oxford, UK: Mathematical and Computational Models in Biomedical Systems
 
 The main organiser of the Colloquium is [Kristian Evans](http://boolesrings.org/nickgill) (Swansea University, Department of Mathematics). Some financial support is available for UK-based research students. The Colloquium is supported by an London Mathematical Society (LMS) conference grant.
