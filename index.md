@@ -19,5 +19,6 @@ It plays an important role in fostering mathematical discussion and collaboratio
 The following invited plenary speakers have agreed to give keynote lectures:
 - [Professor Reidun Twarock](https://www.york.ac.uk/maths/staff/reidun-twarock/), University of York, UK: Mathematical Biology and Mathematical Physics
 - [Professor Helen Byrne](https://www.maths.ox.ac.uk/people/helen.byrne), University of Oxford, UK: Mathematical and Computational Models in Biomedical Systems
+- [Professor Stephen Gourley](https://www.surrey.ac.uk/people/stephen-gourley), University of Surrey, UK: Theory and Applications of Delay Differential Equations
 
 The main organiser of the Colloquium is [Kristian Evans](http://boolesrings.org/nickgill) (Swansea University, Department of Mathematics). Some financial support is available for UK-based research students. The Colloquium is supported by an London Mathematical Society (LMS) conference grant.
