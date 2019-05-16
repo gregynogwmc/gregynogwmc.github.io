@@ -12,7 +12,7 @@ layout: page
 <p>
 <table width="100%" border="1">
   <tr>
-    <td align="center"><a href = "Gregynog2019timetable.pdf">Programme</a> </td><td align="center"> <a href = "Gregynog2019abstracts.pdf">Abstracts</a> </td></tr></table>
+    <td align="center"><a href = "Gregynog2019Timetable.pdf">Programme</a> </td><td align="center"> <a href = "Gregynog2019Abstracts.pdf">Abstracts</a> </td></tr></table>
 </p>
 
 #### Registration will close on 29th March, 2019.
