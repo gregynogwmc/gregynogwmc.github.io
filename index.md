@@ -9,11 +9,6 @@ layout: page
 
 #### This meeting will be held at Gregynog Hall, Newtown on 18-20 May 2020. 
 
-<p>
-<table width="100%" border="1">
-  <tr>
-    <td align="center"><a href = "Gregynog2019Timetable.pdf">Programme</a> </td><td align="center"> <a href = "Gregynog2019Abstracts.pdf">Abstracts</a> </td></tr></table>
-</p>
 
 #### Registration is not yet open.
 
