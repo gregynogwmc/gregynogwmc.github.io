@@ -7,11 +7,11 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-Information for your visit to the Gregynog Welsh Mathematics Colloquium 2019.
+Information for your visit to the Gregynog Welsh Mathematics Colloquium 2020.
 
 ## Times
 
-The workshop will run from the afternoon of Monday 20 May until lunchtime Wednesday 22 May 2019.
+The workshop will run from the afternoon of Monday 18 May until lunchtime Wednesday 20 May 2020.
 
 ## Registration deadline
 
