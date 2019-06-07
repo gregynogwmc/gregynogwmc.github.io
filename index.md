@@ -23,5 +23,4 @@ It plays an important role in fostering mathematical discussion and collaboratio
 
 
 The main organisers of the Colloquium are 
-
 [Karl Michael Schmidt](https://www.cardiff.ac.uk/people/view/98668-schmidt-karl) and [Matthew Lettington](https://www.cardiff.ac.uk/people/view/140706-lettington-matthew) (Cardiff University, Department of Mathematics). 
