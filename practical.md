@@ -19,7 +19,8 @@ Registration will open soon.
 
 ## Accommodation and subsistence
 
-Participants will receive accommodation and meals at Gregynog Hall, and in the evening the cellar bar will be open. Please note that accompanying guests will need to be paid for separately.
+Participants will receive accommodation and meals at Gregynog Hall, and in the evening the cellar bar will be open. Please 
+note that accompanying guests will need to be paid for separately.
 
 ## Fees
 
@@ -31,4 +32,5 @@ Some financial support is available for UK-based research students. The Colloqui
 
 ## Financial support for participants with childcare responsibilities
 
-Financial support to attend the workshop is available for UK-based parents with childcare responsibilities through the London Mathematical Society’s Childcare Supplementary Grant Scheme.
+Financial support to attend the workshop is available for UK-based parents with childcare responsibilities through the 
+London Mathematical Society's Childcare Supplementary Grant Scheme.
