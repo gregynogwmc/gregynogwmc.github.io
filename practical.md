@@ -24,7 +24,7 @@ note that accompanying guests will need to be paid for separately.
 
 ## Fees
 
-Attendees from outside Wales should inquire about fees and may need to pay in advance. Fees for attendees from Wales will normally be paid for by their institution.
+Attendees from outside Wales should enquire about fees and may need to pay in advance. Fees for attendees from Wales will normally be paid by their institution.
 
 ## Financial support for research students
 
