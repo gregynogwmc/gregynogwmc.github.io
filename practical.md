@@ -15,7 +15,7 @@ The workshop will run from the afternoon of Monday 18 May until lunchtime Wednes
 
 ## Registration deadline
 
-Registration will open soon.
+Registration is now open. The deadline for registration is Monday 23rd March 2020.
 
 ## Accommodation and subsistence
 
