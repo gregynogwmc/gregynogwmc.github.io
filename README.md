@@ -1,2 +1,2 @@
 # gregynogwmc.github.io
-Website for the Welsh Mathematical Colloquium
+Website for the Wales Mathematics Colloquium
