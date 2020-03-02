@@ -18,15 +18,12 @@ It plays an important role in fostering mathematical discussion and collaboratio
 
 The following invited speakers have agreed to give keynote lectures:
 - [Professor Chris Breward](https://people.maths.ox.ac.uk/breward/), University of Oxford.
-
       *Title: tba*
       
 - [Professor Brita Nucinkis](https://pure.royalholloway.ac.uk/portal/en/persons/brita-nucinkis(1256195e-d48e-4e83-bc02-c50d77ab01a9).html), Royal Holloway, University of London.
-
       *Title: An introduction to Thompson’s groups and their generalisations.*
       
-- [Professor Stefan Weigert](https://www.york.ac.uk/maths/staff/stefan-weigert/), University of York.
-
+- [Professor Stefan Weigert](https://www.york.ac.uk/maths/staff/stefan-weigert/), University of York.<BR>
       *Title: A survey of mutually unbiased bases.*
 
 Further talks will be solicited from those attending.
