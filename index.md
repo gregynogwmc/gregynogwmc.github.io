@@ -7,12 +7,10 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-#### This meeting was due to be held at Gregynog Hall, Newtown on 18-20 May 2020. 
+#### This meeting was due to be held at Gregynog Hall, Newtown on 18-20 May 2020. Due to ongoing travel restrictions due to the Covid-19 pandemic, this year's colloquium is postponed. We hope to re-schedule for next spring. Registered participants will receive further information in due course.
 
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
-
-**Note that due to ongoing travel restrictions due to the Covid-19 pandemic, this year's colloquium is postponed. We hope to re-schedule for next spring. Registered participants will receive further information in due course.**
 
 <img style="float: right;" src="gregynog.jpg" width="340pt" alt="Gregynog" />
 
