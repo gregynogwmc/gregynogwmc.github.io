@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Gregynog 2020
+title: Gregynog 2022
 date: 2018-11-05
 author: nickgill
 layout: page
