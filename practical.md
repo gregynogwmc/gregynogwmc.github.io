@@ -7,15 +7,15 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-Information for your visit to the Gregynog Welsh Mathematics Colloquium 2020.
+Information for your visit to the Gregynog Welsh Mathematics Colloquium 2022.
 
 ## Times
 
-The workshop will run from the afternoon of Monday 18 May until lunchtime Wednesday 20 May 2020.
+The workshop will run from the afternoon of Monday 23rd May until lunchtime Wednesday 25th May 2022.
 
 ## Registration deadline
 
-Registration is now open. The deadline for registration is Monday 23rd March 2020.
+Registration is now open. The deadline for registration is Monday 11th April 2022.
 
 ## Accommodation and subsistence
 
