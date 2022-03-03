@@ -27,8 +27,8 @@ The following invited speakers have agreed to give keynote lectures:
       *Title: A survey of mutually unbiased bases.*
 
 - [Professor Philip Jonathan]( http://www.lancs.ac.uk/~jonathan/), Lancaster University.<BR>
-      Titles: Gwrthdroi tebygoliaethol: synhwyro o bell i nodweddu ffynonnellau nwyon atmosfferig<BR>
-               Non-stationarity in extreme value models
+      *Titles: Gwrthdroi tebygoliaethol: synhwyro o bell i nodweddu ffynonnellau nwyon atmosfferig<BR>*
+               *Non-stationarity in extreme value models*
 
 Further talks will be solicited from those attending.
 
