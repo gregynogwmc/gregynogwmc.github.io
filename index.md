@@ -25,10 +25,10 @@ The following invited speakers have agreed to give keynote lectures:
       
 - [Professor Stefan Weigert](https://www.york.ac.uk/maths/staff/stefan-weigert/), University of York.<BR>
       *Title: A survey of mutually unbiased bases.*
-     
-Welsh Session:
+
 - [Professor Philip Jonathan]( http://www.lancs.ac.uk/~jonathan/), Lancaster University.<BR>
-      *Title: tba*
+      *Titles: Gwrthdroi tebygoliaethol: synhwyro o bell i nodweddu ffynonnellau nwyon atmosfferig
+               Non-stationarity in extreme value models
 
 Further talks will be solicited from those attending.
 
