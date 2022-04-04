@@ -18,7 +18,8 @@ It plays an important role in fostering mathematical discussion and collaboratio
 
 The following invited speakers have agreed to give keynote lectures:
 - [Professor Chris Breward](https://people.maths.ox.ac.uk/breward/), University of Oxford.<BR>
-      *Title: tba*
+     *Titles: Industrial Mathematics: What is it good for?<BR>*
+             *Removing SO_2 from gas: the mathematics of reactive filtration*
 
 - [Professor Philip Jonathan]( http://www.lancs.ac.uk/~jonathan/), Lancaster University.<BR>
       *Titles: Gwrthdroi tebygoliaethol: synhwyro o bell i nodweddu ffynonnellau nwyon atmosfferig<BR>*
