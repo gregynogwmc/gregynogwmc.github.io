@@ -26,7 +26,8 @@ The following invited speakers have agreed to give keynote lectures:
                *Non-stationarity in extreme value models*
      
 - [Professor Brita Nucinkis](https://pure.royalholloway.ac.uk/portal/en/persons/brita-nucinkis(1256195e-d48e-4e83-bc02-c50d77ab01a9).html), Royal Holloway, University of London.<BR>
-      *Title: An introduction to Thompson’s groups and their generalisations.*
+      *Titles: An introduction to Thompson’s groups and their generalisations.<BR>*
+              *On automorphism groups of Cantor Algebras*
       
 - [Professor Stefan Weigert](https://www.york.ac.uk/maths/staff/stefan-weigert/), University of York.<BR>
       *Title: A survey of mutually unbiased bases.*
