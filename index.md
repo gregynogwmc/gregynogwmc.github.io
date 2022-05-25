@@ -12,7 +12,7 @@ layout: page
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
 
-<img style="float: center;" src="P1150218_crop.JPG" width="540pt" alt="2022 Participants" />
+<img style="float: center;" src="P1150218_crop.JPG" width="800pt" alt="2022 Participants" />
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
