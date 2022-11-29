@@ -7,19 +7,19 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-Information for your visit to the Gregynog Welsh Mathematics Colloquium 2022.
+Information for your visit to the Gregynog Welsh Mathematics Colloquium 2023.
 
 ## Timetable
 
-The workshop will run from the afternoon of Monday 23rd May until lunchtime Wednesday 25th May 2022. The timetable is available <a href = "timetable250522-Gregynog22.pdf">here</a>.
+The workshop will run from the afternoon of Monday 22nd May until lunchtime Wednesday 24th May 2023. 
 
 ## Registration deadline
 
-Registration is now closed. The deadline for registration was Monday 11th April 2022.
+The deadline for registration will be announced soon.
 
 ## Accommodation and subsistence
 
-Participants will receive accommodation and meals at Gregynog Hall, and in the evening the cellar bar will be open. Please 
+Participants will receive accommodation and meals at Gregynog Hall. Please 
 note that accompanying guests will need to be paid for separately.
 
 ## Fees
