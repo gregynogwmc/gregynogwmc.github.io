@@ -6,7 +6,7 @@ author: simon
 layout: page
 ---
 
-#### Wales Mathematics Colloquium, Gregynog Hall, Newtown, 23-25 May 2023x. 
+#### Wales Mathematics Colloquium, Gregynog Hall, Newtown, 22-24 May 2023. 
 
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
