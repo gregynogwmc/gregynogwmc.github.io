@@ -15,24 +15,20 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
-<!--The following invited speakers have agreed to give keynote lectures:
-- [Professor Chris Breward](https://people.maths.ox.ac.uk/breward/), University of Oxford.<BR>
-     *Titles: Industrial Mathematics: What is it good for?<BR>*
-             *Removing SO_2 from gas: the mathematics of reactive filtration*
+The following invited speakers have agreed to give keynote lectures:
+- [Professor Sir John Aston (Cambridge)](http://www.statslab.cam.ac.uk/~jada2/)<BR>
 
-- [Professor Philip Jonathan]( http://www.lancs.ac.uk/~jonathan/), Lancaster University.<BR>
-      *Titles: Gwrthdroi tebygoliaethol: synhwyro o bell i nodweddu ffynonnellau nwyon atmosfferig<BR>*
-               *Non-stationarity in extreme value models*
+
+- [Professor Gianne Derks (Surrey)](https://www.surrey.ac.uk/people/gianne-derks)<BR>
+
      
-- [Professor Brita Nucinkis](https://pure.royalholloway.ac.uk/portal/en/persons/brita-nucinkis(1256195e-d48e-4e83-bc02-c50d77ab01a9).html), Royal Holloway, University of London.<BR>
-      *Titles: An introduction to Thompson’s groups and their generalisations.<BR>*
-              *On automorphism groups of Cantor Algebras*
-      
-- [Professor Stefan Weigert](https://www.york.ac.uk/maths/staff/stefan-weigert/), University of York.<BR>
-      *Title: A survey of mutually unbiased bases.*--->
+- [Professor Roger Heath-Brown FRS (Oxford)](https://www.maths.ox.ac.uk/people/roger.heath-brown).<BR>
+     <!-- *Titles: An introduction to Thompson’s groups and their generalisations.<BR>*
+              *On automorphism groups of Cantor Algebras*-->
 
 
-Talks will be solicited from those attending.
+
+Further talks will be solicited from those attending.
 
 The main organisers of the 2023 Colloquium are [Matthew Lettington](https://www.cardiff.ac.uk/people/view/140706-lettington-matthew) and [Karl Michael Schmidt](https://www.cardiff.ac.uk/people/view/98668-schmidt-karl) (Cardiff University, School of Mathematics).
 
