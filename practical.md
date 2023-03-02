@@ -15,7 +15,7 @@ The workshop will run from the afternoon of Monday 22nd May until lunchtime Wedn
 
 ## Registration deadline
 
-The deadline for registration will be announced soon.
+The deadline for registration is 14th April 2023.
 
 ## Accommodation and subsistence
 
