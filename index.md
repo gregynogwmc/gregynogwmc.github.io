@@ -1,12 +1,12 @@
 ---
 id: 5
-title: Gregynog 2023
-date: 2022-11-29
+title: Gregynog 2024
+date: 2023-10-14
 author: simon
 layout: page
 ---
 
-#### Wales Mathematics Colloquium, Gregynog Hall, Newtown, 22-24 May 2023. 
+#### Wales Mathematics Colloquium, Gregynog Hall, Newtown, 20-22 May 2024. 
 
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
@@ -16,21 +16,21 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
 The following invited speakers have agreed to give keynote lectures:
-- [Professor Sir John Aston (Cambridge)](http://www.statslab.cam.ac.uk/~jada2/)<BR>
+- [Professor Geoffrey Grimmett (Cambridge)](https://www.dpmms.cam.ac.uk/person/grg1000)<BR>
 
 
-- [Professor Gianne Derks (Surrey)](https://www.surrey.ac.uk/people/gianne-derks)<BR>
+- [Professor Kevin Buzzard (Imperial)](https://www.imperial.ac.uk/people/k.buzzard)<BR>
 
      
-- [Professor Roger Heath-Brown FRS (Oxford)](https://www.maths.ox.ac.uk/people/roger.heath-brown).<BR>
+- [Professor Julia Gog (Cambridge)](http://www.damtp.cam.ac.uk/person/jrg20).<BR>
      <!-- *Titles: An introduction to Thompson’s groups and their generalisations.<BR>*
               *On automorphism groups of Cantor Algebras*-->
 
 
 
-Further talks were solicited from those attending.
+Further talks will be solicited from those attending.
 
-The main organisers of the 2023 Colloquium are [Matthew Lettington](https://www.cardiff.ac.uk/people/view/140706-lettington-matthew) and [Karl Michael Schmidt](https://www.cardiff.ac.uk/people/view/98668-schmidt-karl) (Cardiff University, School of Mathematics).
+The main organiser of the 2024 Colloquium is [Graeme Boswell](https://pure.southwales.ac.uk/en/persons/graeme-boswell) (University of South Wales).
 
 
 
