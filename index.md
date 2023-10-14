@@ -32,6 +32,8 @@ Further talks will be solicited from those attending.
 
 The main organiser of the 2024 Colloquium is [Graeme Boswell](https://pure.southwales.ac.uk/en/persons/graeme-boswell) (University of South Wales).
 
+The Colloquium is supported by an LMS Conference Grant.
+
 
 
 
