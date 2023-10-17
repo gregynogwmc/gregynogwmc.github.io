@@ -11,7 +11,7 @@ Information for your visit to the Gregynog Welsh Mathematics Colloquium 2024.
 
 ## Timetable
 
-The workshop will run from the afternoon of Monday 20th May until lunchtime Wednesday 22nd May 2024. 
+The workshop will run from the afternoon of Monday 20th May until lunch on Wednesday 22nd May 2024. 
 <!--a href = "Gregynog23_timetable.pdf">Here is the provisional timetable.</a-->
 
 ## Registration deadline
