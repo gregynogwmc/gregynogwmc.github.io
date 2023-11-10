@@ -7,7 +7,7 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-Registration is currently closed.
+Registration is not yet open.
 
 <!--Registration is now open. Please complete the form below to register. The deadline for registration is 14th April 2023.-->
 
