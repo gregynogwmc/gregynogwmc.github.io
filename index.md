@@ -14,7 +14,7 @@ Fersiwn Cymraeg ar y gweill...
 
 
 
-#### **Wales Mathematics Colloquium, Gregynog Hall, Newtown, 20-22 May 2024 **
+#### **Wales Mathematics Colloquium, Gregynog Hall, Newtown, 20-22 May 2024**
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
 
