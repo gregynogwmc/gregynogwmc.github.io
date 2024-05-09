@@ -35,7 +35,7 @@ The following invited speakers have agreed to give keynote lectures:
 
 Further talks will be solicited from those attending.
 
-The organisers of the 2024 Colloquium are [Graeme Boswell](https://pure.southwales.ac.uk/en/persons/graeme-boswell) (University of South Wales) and [Sam Jobbins](https://pure.southwales.ac.uk/en/persons/sam-jobbins) (University of South Wales). [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) was also an organiser of the 2024 Colloquium prior to her move to Swansea University.
+The organisers of the 2024 Colloquium are [Graeme Boswell](https://pure.southwales.ac.uk/en/persons/graeme-boswell) and [Sam Jobbins](https://pure.southwales.ac.uk/en/persons/sam-jobbins) (University of South Wales). [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) was also an organiser of the 2024 Colloquium prior to her move to Swansea University.
 
 The Colloquium is supported by an LMS Conference Grant.
 
