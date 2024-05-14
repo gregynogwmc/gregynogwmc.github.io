@@ -39,7 +39,7 @@ Further talks will also be given by staff and students.
 
 The organisers of the 2024 Colloquium are [Graeme Boswell](https://pure.southwales.ac.uk/en/persons/graeme-boswell) and [Sam Jobbins](https://pure.southwales.ac.uk/en/persons/sam-jobbins) (University of South Wales). [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) was also an organiser of the 2024 Colloquium prior to her move to Swansea University.
 
-Registration for the event is now **CLOSED**. A draft timetable of the 2024 Colloquium can be found [here]([Gregynog 24 - Draft Timetable.pdf](https://github.com/gregynogwmc/gregynogwmc.github.io/files/15307190/Gregynog.24.-.Draft.Timetable.pdf)).
+Registration for the event is now **CLOSED**. A draft timetable of the 2024 Colloquium can be found [here](https://github.com/gregynogwmc/gregynogwmc.github.io/files/15307190/Gregynog.24.-.Draft.Timetable.pdf).
 
 The Colloquium is supported by an LMS Conference Grant.
 
