@@ -6,14 +6,6 @@ author: simon
 layout: page
 ---
 
-#### **Colocwiwm Mathemateg Cymru, Neuadd Gregynog, Y Drenewydd, 20-22 Mai 2024** 
-
-Fersiwn Cymraeg ar y gweill...
-
-
-
-
-
 #### **Wales Mathematics Colloquium, Gregynog Hall, Newtown, 20-22 May 2024**
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
@@ -39,7 +31,8 @@ Further talks will also be given by staff and students.
 
 The organisers of the 2024 Colloquium are [Graeme Boswell](https://pure.southwales.ac.uk/en/persons/graeme-boswell) and [Sam Jobbins](https://pure.southwales.ac.uk/en/persons/sam-jobbins) (University of South Wales). [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) was also an organiser of the 2024 Colloquium prior to her move to Swansea University.
 
-Registration for the event is now **CLOSED**. A draft timetable of the 2024 Colloquium can be found [here](https://github.com/gregynogwmc/gregynogwmc.github.io/files/15307190/Gregynog.24.-.Draft.Timetable.pdf).
+Registration for the event is now **CLOSED**. A draft timetable of the 2024 Colloquium can be found [here](https://github.com/gregynogwmc/gregynogwmc.github.io/files/15346043/Gregynog.24.-.Draft.Timetable.pdf).
+
 
 The Colloquium is supported by an LMS Conference Grant.
 
