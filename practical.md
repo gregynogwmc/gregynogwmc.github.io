@@ -11,7 +11,7 @@ Information for your visit to the Gregynog Welsh Mathematics Colloquium 2024.
 
 ## Timetable
 
-The workshop will run from the afternoon of Monday 20th May until lunch on Wednesday 22nd May 2024. 
+The workshop will run from the afternoon of Monday 2nd June until lunch on Wednesday 4th June 2025. 
 <!--a href = "Gregynog23_timetable.pdf">Here is the provisional timetable.</a-->
 
 <!--## Registration deadline
@@ -27,11 +27,11 @@ note that accompanying guests will need to be paid for separately.
 
 Attendees who are not affiliated with a university in Wales should enquire about fees and may need to pay in advance. Fees for attendees from Wales will normally be paid by their institution.
 
-## Financial support for research students
+<!--## Financial support for research students
 
-Some financial support is available for UK-based research students. The Colloquium is supported by an LMS Conference Grant.
+Some financial support is available for UK-based research students. The Colloquium is supported by an LMS Conference Grant.-->
 
-## Financial support for participants with childcare responsibilities
+<!--## Financial support for participants with childcare responsibilities
 
 Financial support to attend the workshop is available for UK-based parents with childcare responsibilities through the 
-London Mathematical Society's Childcare Supplementary Grant Scheme.
+London Mathematical Society's Childcare Supplementary Grant Scheme.-->
