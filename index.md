@@ -14,19 +14,17 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
-<!--The following invited speakers have agreed to give keynote lectures:
-- [Professor Geoffrey Grimmett (Cambridge)](https://www.dpmms.cam.ac.uk/person/grg1000)<BR>
+The following invited speakers have agreed to give keynote lectures:
+- [Professor Ruth Baker (Oxford)](https://www.maths.ox.ac.uk/people/ruth.baker)<BR>
 
 
-- [Professor Kevin Buzzard (Imperial)](https://www.imperial.ac.uk/people/k.buzzard)<BR>
+- [Professor Jeffrey Giansiracusa (Durham)](https://www.durham.ac.uk/staff/jeffrey-giansiracusa/)<BR>
 
      
-- [Professor Julia Gog (Cambridge)](http://www.damtp.cam.ac.uk/person/jrg20).<BR>
-    -->
+- [Professor Shahn Majid (Queen Mary University of London)](https://www.qmul.ac.uk/maths/profiles/majids.html).<BR>
 
 
-
-<!--Further talks will also be given by staff and students.-->
+Further talks will also be given by staff and students.
 
 The organisers of the 2025 Colloquium are [Kristian Evans](https://www.swansea.ac.uk/staff/k.evans/) and [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) from Swansea University.
 
