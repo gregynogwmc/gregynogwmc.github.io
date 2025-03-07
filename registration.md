@@ -13,7 +13,7 @@ layout: page
 
 Registration is now open. Please complete the form below to register.
 
-The deadline for registration is 30st April 2025.
+The deadline for registration is 30th April 2025.
 
 <iframe src="https://forms.gle/7j55dgPyNTa6pVZp8" width="680" height="2060" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
