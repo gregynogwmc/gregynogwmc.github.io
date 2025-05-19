@@ -28,7 +28,7 @@ Further talks will also be given by staff and students.
 
 The organisers of the 2025 Colloquium are [Kristian Evans](https://www.swansea.ac.uk/staff/k.evans/) and [Angelica Pachon](https://www.swansea.ac.uk/staff/a.y.pachon/) from Swansea University.
 
-Registration for the event is open. 
+Registration for the event has now closed. 
 
 <!--A draft timetable of the 2024 Colloquium can be found [here](https://github.com/gregynogwmc/gregynogwmc.github.io/files/15346043/Gregynog.24.-.Draft.Timetable.pdf).-->
 
