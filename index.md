@@ -30,7 +30,7 @@ The organisers of the 2025 Colloquium are [Kristian Evans](https://www.swansea.a
 
 Registration for the event has now closed. 
 
-The timetable of the 2025 Colloquium can be found [here](https://drive.google.com/file/d/1zdNthgUF9N7_OQab1DlRQfIZLU0LM3sL/view?usp=drive_link).
+The timetable and abstract of the 2025 Colloquium can be found here [Timetable](https://drive.google.com/file/d/1zdNthgUF9N7_OQab1DlRQfIZLU0LM3sL/view?usp=drive_link), [abstract](https://drive.google.com/file/d/1VtAtL7i5-mieDhV6OUI2069bMm7BlqAQ/view?usp=drive_link).
 
 
 <!--The Colloquium is supported by an LMS Conference Grant.-->
