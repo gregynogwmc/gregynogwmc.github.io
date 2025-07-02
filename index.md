@@ -1,8 +1,8 @@
 ---
 id: 5
-title: Gregynog 2025
-date: 2025-02-28
-author: simon
+title: Gregynog 2026
+date: 2026-07-02
+author: angelica
 layout: page
 ---
 
