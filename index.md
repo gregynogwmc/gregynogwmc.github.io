@@ -14,12 +14,13 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
-The following speakers have agreed to give keynote lectures:
+The following speakers have agreed to give keynote lectures:<BR>
+
 [Professor Victoria Gould (York)](https://www.york.ac.uk/maths/people/victoria-gould/): algebraic semigroup theory <BR>
 
-[Dr Madalin Guta (Nottingham)(https://www.nottingham.ac.uk/mathematics/people/madalin.guta)]: quantum statistics and information geometry <BR>
+[Dr Madalin Guta (Nottingham)](https://www.nottingham.ac.uk/mathematics/people/madalin.guta): quantum statistics and information geometry <BR>
 
-[Professor John Willis FRS (Cambridge)(https://www.maths.cam.ac.uk/person/jrw1005)], : theoretical solid mechanics <BR>
+[Professor John Willis FRS (Cambridge)](https://www.maths.cam.ac.uk/person/jrw1005): theoretical solid mechanics <BR>
 
 <!--- [Professor Jeffrey Giansiracusa (Durham)](https://www.durham.ac.uk/staff/jeffrey-giansiracusa/)<BR>-->
 
