@@ -7,9 +7,9 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-<!--Registration is not yet open.-->
+Registration is not yet open.
 
-Registration is now closed.
+<!--Registration is now closed.->>
 
 
 <!--Registration is now open. Please complete the form below to register.
