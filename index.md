@@ -14,9 +14,12 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
-<!--The following invited speakers have agreed to give keynote lectures:-->
-<!--- [Professor Ruth Baker (Oxford)](https://www.maths.ox.ac.uk/people/ruth.baker)<BR>-->
+The following speakers have agreed to give keynote lectures:
+[Professor Victoria Gould (York)](https://www.york.ac.uk/maths/people/victoria-gould/): algebraic semigroup theory <BR>
 
+[Dr Madalin Guta (Nottingham)(https://www.nottingham.ac.uk/mathematics/people/madalin.guta)]: quantum statistics and information geometry <BR>
+
+[Professor John Willis FRS (Cambridge)(https://www.maths.cam.ac.uk/person/jrw1005)], : theoretical solid mechanics <BR>
 
 <!--- [Professor Jeffrey Giansiracusa (Durham)](https://www.durham.ac.uk/staff/jeffrey-giansiracusa/)<BR>-->
 
@@ -24,7 +27,7 @@ It plays an important role in fostering mathematical discussion and collaboratio
 <!--- [Professor Shahn Majid (Queen Mary University of London)](https://www.qmul.ac.uk/maths/profiles/majids.html).<BR>-->
 
 
-<!--Further talks will also be given by staff and students.-->
+Further talks will also be given by staff and students.
 
 The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
 
