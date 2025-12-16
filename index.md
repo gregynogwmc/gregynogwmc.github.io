@@ -32,7 +32,7 @@ Further talks will also be given by staff and students.
 
 The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
 
-Registration details follow close to the event.
+Registration details to follow closer to the event.
 <!--Registration for the event has now closed.--> 
 
 <!--The timetable and abstracts of the 2025 Colloquium can be found here [Timetable](https://drive.google.com/file/d/1zdNthgUF9N7_OQab1DlRQfIZLU0LM3sL/view?usp=drive_link), [Abstracts](https://drive.google.com/file/d/1VtAtL7i5-mieDhV6OUI2069bMm7BlqAQ/view?usp=drive_link).-->
