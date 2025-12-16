@@ -11,7 +11,7 @@ Information for your visit to the Gregynog Welsh Mathematics Colloquium 2025.
 
 ## Timetable
 
-The workshop will run from the afternoon of Monday 2nd June until lunch on Wednesday 4th June 2025. 
+The workshop will run from the afternoon of Monday 18th May until lunch on Wednesday 20th May 2026. 
 <!--a href = "Gregynog23_timetable.pdf">Here is the provisional timetable.</a-->
 
 <!--## Registration deadline
