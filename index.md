@@ -2,7 +2,7 @@
 id: 5
 title: Gregynog 2026
 date: 2026-07-02
-author: angelica
+author: simon
 layout: page
 ---
 
