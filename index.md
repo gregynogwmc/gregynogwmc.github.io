@@ -39,10 +39,10 @@ Registration is now open. Follow the Registration link above to register.
 <!--The timetable and abstracts of the 2025 Colloquium can be found here [Timetable](https://drive.google.com/file/d/1zdNthgUF9N7_OQab1DlRQfIZLU0LM3sL/view?usp=drive_link), [Abstracts](https://drive.google.com/file/d/1VtAtL7i5-mieDhV6OUI2069bMm7BlqAQ/view?usp=drive_link).-->
 
 
-The Colloquium is supported by the Heilbronn Institute for Mathematical Research (HIMR) and the UKRI/EPSRC
-Additional Funding Programme for Mathematical Sciences.
+The Colloquium is supported by the Heilbronn Institute for Mathematical Research (HIMR), through the UKRI/EPSRC
+Additional Funding Programme for Mathematical Sciences, and the QJMAM Fund for Applied Mathematics, administered by the IMA.
 
-<img style="float: left;" src="media/HIMR logo.png" width="150pt" alt="Heilbronn Logo"><img style="float: right;" src="media/EPSRC-UKRI-logo.png" width="200pt" alt="EPSRC Logo">
+<img style="float: left;" src="media/HIMR logo.png" width="150pt" alt="Heilbronn Logo"><img style="float: center;" src="media/EPSRC-UKRI-logo.png" width="200pt" alt="EPSRC Logo"><img style="float: right;" src="media/qjmam-with-border.jpg" width="200pt" alt="QJMAM Logo">
 
 
 
