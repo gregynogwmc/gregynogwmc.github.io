@@ -9,14 +9,14 @@ layout: page
 
 <!--Registration is not yet open.-->
 
-<!--Registration is now closed.-->
+Registration is now closed.
 
 
-Registration is now open. Please complete the form below to register.
+<!--Registration is now open. Please complete the form below to register.
 
 The deadline for registration is 30th April 2026.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetsPsx166CPJkrSC6pUa_R0YWZJ2dxWrZGiO9buCwzlC_Gkg/viewform?embedded=true" width="640" height="1940" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetsPsx166CPJkrSC6pUa_R0YWZJ2dxWrZGiO9buCwzlC_Gkg/viewform?embedded=true" width="640" height="1940" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>-->
 
 <!--
 <iframe src="https://forms.office.com/e/BgiQSQzwXC" width="640" height="2039" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
