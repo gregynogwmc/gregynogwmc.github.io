@@ -22,13 +22,8 @@ The following speakers have agreed to give keynote lectures:<BR>
 
 [Professor John Willis FRS (Cambridge)](https://www.maths.cam.ac.uk/person/jrw1005): theoretical solid mechanics <BR>
 
-<!--- [Professor Jeffrey Giansiracusa (Durham)](https://www.durham.ac.uk/staff/jeffrey-giansiracusa/)<BR>-->
 
-     
-<!--- [Professor Shahn Majid (Queen Mary University of London)](https://www.qmul.ac.uk/maths/profiles/majids.html).<BR>-->
-
-
-Further talks will also be given by staff and students.
+Further talks will also be given by staff and students. A draft timetable is available here: [Timetable](media/timetable-Gregynog26-v5.pdf)
 
 The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
 
