@@ -23,7 +23,7 @@ The following speakers have agreed to give keynote lectures:<BR>
 [Professor John Willis FRS (Cambridge)](https://www.maths.cam.ac.uk/person/jrw1005): theoretical solid mechanics <BR>
 
 
-Further talks will also be given by staff and students. A draft timetable is available here: [Timetable](media/timetable-Gregynog26-v5.pdf)
+Further talks will also be given by staff and students. A draft timetable is available here: [Timetable](media/Gregynog2026_timetable.pdf)
 
 The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
 
