@@ -14,7 +14,7 @@ This is a long-standing annual event with a broad mathematical outlook across ar
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 
-The following speakers have agreed to give keynote lectures:<BR>
+At the 2026 event, the following speakers gave keynote lectures:<BR>
 
 [Professor Victoria Gould (York)](https://www.york.ac.uk/maths/people/victoria-gould/): algebraic semigroup theory <BR>
 
@@ -23,9 +23,9 @@ The following speakers have agreed to give keynote lectures:<BR>
 [Professor John Willis FRS (Cambridge)](https://www.maths.cam.ac.uk/person/jrw1005): theoretical solid mechanics <BR>
 
 
-Further talks will also be given by staff and students. The timetable is available here: [Timetable](media/Gregynog2026_timetable.pdf)
+Further talks were also given by staff and students. The timetable is available here: [Timetable](media/Gregynog2026_timetable.pdf)
 
-The organisers of the 2026 Colloquium are [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
+The organisers of the 2026 Colloquium were [Gwion Evans](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/dfe/) and [Rolf Gohm](https://www.aber.ac.uk/en/maths/staff-profiles/listing/profile/rog/) from Aberystwyth University.
 
 <!--Registration is now open. Follow the Registration link above to register.-->
 <!--Registration details to follow closer to the event.-->
@@ -34,7 +34,7 @@ Registration for the event has now closed.
 <!--The timetable and abstracts of the 2025 Colloquium can be found here [Timetable](https://drive.google.com/file/d/1zdNthgUF9N7_OQab1DlRQfIZLU0LM3sL/view?usp=drive_link), [Abstracts](https://drive.google.com/file/d/1VtAtL7i5-mieDhV6OUI2069bMm7BlqAQ/view?usp=drive_link).-->
 
 
-The Colloquium is supported by the Heilbronn Institute for Mathematical Research (HIMR), through the UKRI/EPSRC
+The Colloquium was supported by the Heilbronn Institute for Mathematical Research (HIMR), through the UKRI/EPSRC
 Additional Funding Programme for Mathematical Sciences, and the QJMAM Fund for Applied Mathematics, administered by the IMA.
 
 <img style="float: left;" src="media/HIMR logo.png" width="150pt" alt="Heilbronn Logo"><img style="float: center;" src="media/EPSRC-UKRI-logo.png" width="200pt" alt="EPSRC Logo"><img style="float: right;" src="media/qjmam-with-border.jpg" width="200pt" alt="QJMAM Logo">
